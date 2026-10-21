@@ -54,5 +54,3 @@ Sou estudante de Sistemas de Informação na UniLaSalle-RJ, atualmente desenvolv
 Meu objetivo é aprimorar continuamente minhas habilidades técnicas e criativas por meio de projetos pessoais, estudos independentes e experiência prática.
 
 Valorizo a curiosidade, a consistência e a evolução contínua ao longo da minha trajetória como desenvolvedor.
-
-  [![Kyoo's GitHub stats](https://github-stats-extended.vercel.app/api/?username=kyoodev&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Kyoo's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=kyoodev&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Kyoo's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)

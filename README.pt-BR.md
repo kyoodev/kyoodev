@@ -49,6 +49,7 @@ Sou estudante de Sistemas de Informação na UniLaSalle-RJ, atualmente desenvolv
     title="Roblox VFX"
   />
 </p>
+
 ## Objetivos
 
 Meu objetivo é aprimorar continuamente minhas habilidades técnicas e criativas por meio de projetos pessoais, estudos independentes e experiência prática.

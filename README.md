@@ -30,31 +30,17 @@ My goal is to continuously improve my technical and creative skills through pers
 I value curiosity, consistency, and continuous improvement throughout my development journey.
 
 
-<a href="https://github-stats-extended.vercel.app/api?username=kyoodev">
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api?username=kyoodev&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-stats-extended.vercel.app/api?username=kyoodev&theme=light_github" />
-  </picture>
-</a>
 
 
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api?username=kyoodev&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-stats-extended.vercel.app/api?username=kyoodev&theme=light_github" alt="Kyoo's GitHub stats" />
-  </picture>
-
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=kyoodev&langs_count=4&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kyoodev&langs_count=4&theme=light_github" alt="Top Langs" />
-  </picture>
-
-  [![Kyoo's GitHub stats](https://github-stats-extended.vercel.app/api/?username=kyoodev&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Kyoo's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=kyoodev&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Kyoo's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+<div align="center">
+  <img
+    height="150"
+    src="https://github-stats-extended.vercel.app/api?username=kyoodev&theme=dark_github&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="150"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=kyoodev&langs_count=4&layout=compact&theme=dark_github&hide_border=true"
+    alt="Most Used Languages"
+  />
+</div>

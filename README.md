@@ -36,6 +36,13 @@ I am an Information Systems student at UniLaSalle-RJ, currently developing my kn
 - **Digital Design:** Profile customization and visual identity
 - **Roblox Development:** Learning visual effects (VFX)
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+</p>
+
 ## Objectives
 
 My goal is to continuously improve my technical and creative skills through personal projects, independent study, and practical experience.

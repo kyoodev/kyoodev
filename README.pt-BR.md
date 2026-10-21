@@ -37,6 +37,18 @@ Sou estudante de Sistemas de Informação na UniLaSalle-RJ, atualmente desenvolv
 - **Design Digital:** Personalização de perfis e identidade visual
 - **Desenvolvimento para Roblox:** Aprendizado de efeitos visuais (VFX)
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+   <img
+    src="./assets/roblox-vfx.png"
+    width="40"
+    alt="Roblox Studio and VFX"
+    title="Roblox VFX"
+  />
+</p>
 ## Objetivos
 
 Meu objetivo é aprimorar continuamente minhas habilidades técnicas e criativas por meio de projetos pessoais, estudos independentes e experiência prática.

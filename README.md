@@ -1,16 +1,30 @@
-## Hi there 👋
+# Kauan Steiner
 
-<!--
-**kyoodev/kyoodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Information Systems Student | Aspiring Software Developer**
 
-Here are some ideas to get you started:
+[English](README.md) | [Português](README.pt-BR.md)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am an Information Systems student at UniLaSalle-RJ, currently developing my knowledge of programming, databases, and information management. My primary focus is continuous learning, practical experimentation, and building a solid foundation in software development.
+
+## Background
+
+- Information Systems Student
+- Certified Designer
+- Discord Profile Designer
+- Cambridge Certified Fluent English
+
+## Technical Interests
+
+- **Programming:** C, HTML, and JavaScript
+- **Databases:** Data organization and management
+- **Information Systems:** Information management and business processes
+- **Digital Design:** Profile customization and visual identity
+- **Roblox Development:** Learning visual effects (VFX)
+
+## Objectives
+
+My goal is to continuously improve my technical and creative skills through personal projects, independent study, and practical experience.
+
+I value curiosity, consistency, and continuous improvement throughout my development journey.
